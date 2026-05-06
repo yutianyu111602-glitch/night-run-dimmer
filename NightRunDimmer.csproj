@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>NightRunDimmer</AssemblyName>
+    <RootNamespace>NightRunDimmer</RootNamespace>
+    <Version>0.2.0</Version>
+    <FileVersion>0.2.0.0</FileVersion>
+    <AssemblyVersion>0.2.0.0</AssemblyVersion>
+    <Authors>yutianyu111602-glitch</Authors>
+    <Company>Night Run Dimmer</Company>
+    <Product>Night Run Dimmer</Product>
+    <Description>Windows desktop tool for dimming all screens during overnight agent runs.</Description>
+    <Copyright>Copyright © 2026</Copyright>
+    <ApplicationIcon>assets\AppIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
